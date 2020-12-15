@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(46, 45, 54);
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 0;
+}
+
+h3 {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+pre {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+}
+
+#poem {
+    width: 500px;
+    margin: auto;
+}
+
+#button {
+    width: 150px;
+    height: 30px;
+    background-color: rgb(76, 63, 100);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+}
+
+#button:hover {
+    cursor: pointer;
+}
